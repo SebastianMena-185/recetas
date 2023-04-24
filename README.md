@@ -1,1 +1,1 @@
-# resetas
+# recetas
